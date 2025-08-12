@@ -1,0 +1,11 @@
+README.md
+setup.py
+yt_sub/__init__.py
+yt_sub/download.py
+yt_sub/embed.py
+yt_sub/subtitle.py
+yt_sub.egg-info/PKG-INFO
+yt_sub.egg-info/SOURCES.txt
+yt_sub.egg-info/dependency_links.txt
+yt_sub.egg-info/requires.txt
+yt_sub.egg-info/top_level.txt
